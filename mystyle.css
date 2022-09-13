@@ -1,0 +1,35 @@
+h1{
+    color:black;
+    background: #8fc3e6;
+    text-align: center;
+    padding: 40px;
+}
+@media screen and (min-width: 800px) {
+    body {
+      background-color: lavender;
+    }
+  }
+
+a{
+    color:black;
+}
+li:hover{
+    background: grey; 
+}
+table, th, td {
+    border:1px solid black;
+
+    }
+#shoutout{
+    background: #f6e58f;
+    text-align: center; 
+    text-decoration: underline;
+}
+.button{
+    text-align: center;
+}
+.site{
+    background: #55b2ef;
+    display:inline-flexbox;
+}
+
