@@ -4,6 +4,9 @@ h1{
     text-align: center;
     padding: 40px;
 }
+h2{
+    text-align:center;
+}
 @media screen and (min-width: 800px) {
     body {
       background-color: #eee2dc;
