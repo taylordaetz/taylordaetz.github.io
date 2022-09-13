@@ -21,7 +21,7 @@ li:hover{
 }
 table, th, td {
     border:1px solid #123c69;
-
+    text-align: center;
     }
 #shoutout{
     background: #edc7b7;
@@ -40,5 +40,9 @@ span{
 }
 
 div.familypic {
+    text-align: center;
+}
+
+div.pics{
     text-align: center;
 }
