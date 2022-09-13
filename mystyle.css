@@ -13,6 +13,9 @@ h1{
 a{
     color:black;
 }
+a:hover {
+    color: pink;
+  }
 li:hover{
     background: grey; 
 }
