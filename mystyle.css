@@ -23,7 +23,6 @@ table, th, td {
 #shoutout{
     background: #f6e58f;
     text-align: center; 
-    text-decoration: underline;
 }
 .button{
     text-align: center;
@@ -33,3 +32,6 @@ table, th, td {
     display:inline-flexbox;
 }
 
+span{
+    text-decoration: underline;
+}
