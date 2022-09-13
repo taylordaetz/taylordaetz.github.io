@@ -1,37 +1,37 @@
 h1{
     color:black;
-    background: #8fc3e6;
+    background: #edc7bc;
     text-align: center;
     padding: 40px;
 }
 @media screen and (min-width: 800px) {
     body {
-      background-color: lavender;
+      background-color: #eee2dc;
     }
   }
 
 a{
-    color:black;
+    color:#123c69;
 }
 a:hover {
     color: pink;
   }
 li:hover{
-    background: grey; 
+    background: #bab2b5; 
 }
 table, th, td {
-    border:1px solid black;
+    border:1px solid #123c69;
 
     }
 #shoutout{
-    background: #f6e58f;
+    background: #edc7b7;
     text-align: center; 
 }
 .button{
     text-align: center;
 }
 .site{
-    background: #55b2ef;
+    background: #f0b399;
     display:inline-flexbox;
 }
 
